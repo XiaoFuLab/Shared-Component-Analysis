@@ -140,6 +140,9 @@ demo/
 *.zip
 *.mat
 
+# Exclude SCA.png from being ignored
+!SCA.png
+
 +.DS_Store
 */.DS_Store
 

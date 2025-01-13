@@ -1,5 +1,7 @@
 # Identifiable Shared Component Analysis of Unpaired Multimodal Mixtures
 
+![Shared Component Analysis](SCA.png)
+
 This repository contains the code to reproduce the experiments in the paper:  
 
 [**"Identifiable Shared Component Analysis of Unpaired Multimodal Mixtures"**](https://openreview.net/pdf?id=ivCX2cjwcT)
