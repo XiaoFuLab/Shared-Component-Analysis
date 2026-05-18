@@ -143,7 +143,11 @@ demo/
 # Exclude SCA.png from being ignored
 !SCA.png
 
-+.DS_Store
+# Keep images used by the README (override the *.png rule above)
+!pics/
+!pics/**
+
+.DS_Store
 */.DS_Store
 
 
