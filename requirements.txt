@@ -88,7 +88,7 @@ pandocfilters
 parso 
 pexpect 
 pickleshare 
-Pillow==9.3.0
+Pillow>=10.3.0
 pkgutil_resolve_name 
 platformdirs 
 prettytable==3.9.0
